@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggercelete",
+        "uuid": 15235830,
+        "checksum": "3gae7"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
